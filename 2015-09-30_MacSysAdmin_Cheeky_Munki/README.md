@@ -11,3 +11,7 @@ I had the pleasure to present at [MacSysAdmin](http://macsysadmin.se/2015/Home.h
  * [munki-rebrand](https://github.com/ox-it/munki-rebrand)
  * [munki-webadmin](https://github.com/ox-it/munkiwebadmin)
  * [autopkg run recipes script](https://gist.github.com/mjung/abcddccacdcbb17f5c63)
+
+### Credits
+
+I would like to thank [Aaron](https://github.com/oucsaw/), [Ben](https://github.com/fuzzylogiq/), [Chris](https://github.com/cdbeard), and [Gary](https://github.com/AltMeta) for their hard work to make all this happen.
