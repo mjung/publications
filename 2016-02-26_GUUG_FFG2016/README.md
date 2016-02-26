@@ -2,6 +2,8 @@
 
 I had the pleasure to present at [GUUG Frühjahrsfachgespräch 2016](http://guug.de/veranstaltungen/ffg2016/index.html) on iOS and OS X management and introduce the workflows used at the University of Oxford's Mac team.
 
+### Resources
+
  * [slides (pdf)](https://github.com/mjung/publications/raw/master/2016-02-26_GUUG_FFG2016/2016-02-26_GUUG_FFG2016-Apple_OS_X_und_iOS_management.pdf)
 
 ### Links

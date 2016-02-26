@@ -2,6 +2,8 @@
 
 I had the pleasure to present at [MacAdUK](http://macad.uk) the Oxford Mac team's solution how to create an integrated package deployment workflow using Munki and the Casper Suite.
 
+### Resources
+
  * [slides (pdf)](https://github.com/mjung/publications/raw/master/2016-02-09_MacAdUK/2016-02-09_MacAdUK_Mac_Management_at_Oxford_Marko_Jung.pdf)
  * [video (YouTube)](https://youtu.be/CQv8i02uKaw)
 
