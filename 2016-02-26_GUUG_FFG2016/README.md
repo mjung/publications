@@ -84,6 +84,7 @@ I had the pleasure to present at [GUUG Frühjahrsfachgespräch 2016](http://guug
 #### Community
 
  * [Macadmins @ Slack](http://macadmins.org/)
+ * [MacSysAdmin.se conference documentation](http://documentation.macsysadmin.se/Documentation2015/Documentation.php)
  
 ### Credits
 
