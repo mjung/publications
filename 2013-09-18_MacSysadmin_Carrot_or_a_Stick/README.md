@@ -4,11 +4,7 @@ I had the pleasure to present at [MacSysAdmin](http://macsysadmin.se/2013/Home.h
 
 ### Abstract
 
-In this session Marko will discuss how they make users buy in to a managed workstation at the University of Oxford.
-
-He will explain the key characteristics of the Oxford environment and what they implemented to build their desktop management framework. 
-
-The talk will focus around Self Service and end-user interaction during maintenance..
+In this session Marko will discuss how they make users buy in to a managed workstation at the University of Oxford. He will explain the key characteristics of the Oxford environment and what they implemented to build their desktop management framework. The talk will focus around Self Service and end-user interaction during maintenance..
 
 ### Resources
 
