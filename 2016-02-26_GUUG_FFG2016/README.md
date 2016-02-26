@@ -2,6 +2,16 @@
 
 I had the pleasure to present at [GUUG Frühjahrsfachgespräch 2016](http://guug.de/veranstaltungen/ffg2016/index.html) on iOS and OS X management and introduce the workflows used at the University of Oxford's Mac team.
 
+### Abstract (German)
+
+Im Juli 2015 haben Apple und IBM eine Allianz angekündigt, um den Bereich der Enterprise Mobility zu revolutionieren. Durch die Kombination der IBM Professional Services mit den Produkten von Apple steht Unternehmen nun ein global verfügbares Serviceportfolio zur Unterstützung von "mobile first" Strategien zur Verfügung.
+
+Immer mehr Mitarbeiter fordern von ihren IT-Abteilungen, MacBooks, iPads und iPhones auch im beruflichen Kontext einsetzen zu dürfen. Der IT-Betrieb beschafft daraufhin oft diese Geräte, konfiguriert sie initial und übergibt sie mit guter Hoffnung in die Obhut der Anwender. Nachdem Angriffe und Exploits auch bei den populären Apple-Systemen angekommen sind, suchen Systemadministratoren nach belast- und skalierbaren Managementlösungen auch für diese Plattform, die sie beim Deployment, Konfigurations- und Patchmanagement unterstützen.
+
+Apple stellt viele Tools und Frameworks zum Management beider Betriebssysteme zur Verfügung. Allerdings skalieren die kaum und sind eher als Referenzimplemntierung anzusehen. Daher hat sich ein umfangreiches, aber auch unübersichtliches Ökosystem entwickelt. Viele kommerzielle Angebote versprechen umfassende Managementlösungen. Pfiffige Entwickler stellen zuverlässige Alternativen als Open Source zur Verfügung, etwa Munki zur Softwareverteilung, Osquery zur Analyse und Monitoring, oder SAL zum Inventory und Reporting.
+
+Apple verwendet viele Marketing-Akronyme, um Sachverhalte zu benennen, die dem Unix-Admin unter anderem Namen bekannt sind. So steht Beispielsweise BSDP für Boot Service Discovery Protocol, was in Wirklichkeit nicht mehr als DHCP ist. Der Vortrag übersetzt Apples Marketing-Jargon in gängige Technologien und erklärt, wieso sich betroffene Admins eben keine Mac Minis als Server in ihr Rechenzentrum stellen müssen. Darüber hinaus werden für gängige Deployment-Techniken und Management-Strategien die verfügbaren Tools diskutiert. Hierbei fließen die Erkenntnisse aus über einem Jahrzehnt Apple-Management an der University of Oxford in die Bewertung ein.
+
 ### Resources
 
  * [slides (pdf)](https://github.com/mjung/publications/raw/master/2016-02-26_GUUG_FFG2016/2016-02-26_GUUG_FFG2016-Apple_OS_X_und_iOS_management.pdf)

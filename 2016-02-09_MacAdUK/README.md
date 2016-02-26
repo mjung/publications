@@ -1,6 +1,10 @@
-# Integrating Munki and the JAMF Casper Suite
+# Mac Management Mixology at the University of Oxford: Integrating Munki and the JAMF Casper Suite
 
 I had the pleasure to present at [MacAdUK](http://macad.uk) the Oxford Mac team's solution how to create an integrated package deployment workflow using Munki and the Casper Suite.
+
+### Abstract
+
+How can we mix Mac management tools to create a delicious cocktail of inventory and settings management, package and patch management? This talk will cover the deployment and maintenance workflows in use at the University of Oxford.
 
 ### Resources
 

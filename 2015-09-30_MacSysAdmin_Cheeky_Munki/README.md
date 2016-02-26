@@ -2,6 +2,10 @@
 
 I had the pleasure to present at [MacSysAdmin](http://macsysadmin.se/2015/Home.html) the Oxford Mac team's solution how to create an integrated package deployment workflow using Munki and the Casper Suite.
 
+### Abstract
+
+Mac bartending masterclass, featuring a delicious cocktail of the best in inventory and settings management, mixed with the best in package and patch management. Served chilled!
+
 ### Resources
 
  * [slides (pdf)](https://github.com/mjung/publications/raw/master/2015-09-30_MacSysAdmin_Cheeky_Munki/2015-09-30_MacSysAdmin_Cheeky_Munki-Marko_Jung.pdf)
