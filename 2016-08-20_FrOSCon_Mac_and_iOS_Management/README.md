@@ -1,6 +1,6 @@
 # Apple iOS and OS X Management
 
-I had the pleasure to present at [FrOSCon 2016](http://froscon.org) on iOS and OS X management and introduce the workflows used at the University of Oxford's Mac team.
+I had the pleasure to present at [FrOSCon 2016](http://froscon.org) on iOS and OS X management and introduce the workflows used at the University of Oxford's Mac team. 
 
 ### Abstract (German)
 
@@ -15,6 +15,7 @@ Apple verwendet viele Marketing-Akronyme, um Sachverhalte zu benennen, die dem U
 ### Resources
 
  * [slides (pdf)](https://github.com/mjung/publications/raw/master/2016-08-20_FrOSCon_Mac_and_iOS_Management/2016-08-20_FrOSCon-Apple_OS_X_und_iOS_management.pdf)
+ * [video](https://media.ccc.de/v/froscon2016-1841-apple_osx_und_ios_management)
 
 ### Links
 
