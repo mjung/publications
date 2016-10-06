@@ -28,7 +28,7 @@ We will have a look at certificate based workflows and basic concepts of the cry
     * CRL [RFC5280](https://tools.ietf.org/html/rfc5280)
     * OSCP [RFC6960](https://tools.ietf.org/html/rfc6960)
     * Certificate Transparency [RFC6962](https://tools.ietf.org/html/rfc6962)
- * Overview of Simple Certificate Enrolment Protocol [SCEP](www.ietf.org/proceedings/69/slides/pkix-3.pdf)
+ * Overview of Simple Certificate Enrolment Protocol [SCEP](http://www.ietf.org/proceedings/69/slides/pkix-3.pdf)
  * [AFP548: 802.1x EAP-TLS Machine Authentication...](https://www.afp548.com/2012/11/20/802-1x-eaptls-machine-auth-mtlion-adcerts/)
  * Apple
     * [Apple Certificate Authority](https://www.apple.com/certificateauthority/) 
